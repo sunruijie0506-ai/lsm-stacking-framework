@@ -1,0 +1,3 @@
+Processed de-identified tables are provided for reproducibility.
+
+Geospatial layers with coordinates/geometries are restricted by national regulations and are not redistributed.
